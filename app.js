@@ -7,9 +7,9 @@ button1.onclick = () => {
 // 2a.
 const h3 = document.querySelector(`h3`);
 // 2b.
-// h3.addEventListener(`mouseover`, () => {
-//     alert(`OH NO! The squirrels are on to you. Now you have to leave this reality and move to a new one`);
-// });
+h3.addEventListener(`mouseover`, () => {
+    alert(`OH NO! The squirrels are on to you. Now you have to leave this reality and move to a new one`);
+});
 // 3a.
 const form = document.querySelector(`form`);
 // 3b.
